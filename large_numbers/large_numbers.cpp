@@ -180,7 +180,6 @@ string divv(string num_1, string num_2) {										//³ı·¨£¬¼ÆËãnum_1³ıÒÔnum_2£¬Ê
 
 
 int main() {
-	//string num_1(1000, '1'), num_2(1, '1'), symbol, num_return;
 	string num_1, num_2, symbol, num_return;
 
 	while (getline(cin, num_1)) {														//ÊäÈëÁ½¸öÊı£¬Ò»¸ö·ûºÅ
